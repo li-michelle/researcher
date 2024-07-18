@@ -9,8 +9,6 @@ is_contact: true
 
 ## Current Institution
 
-> University of California, San Diego
-
-> La Jolla, CA
+University of California, San Diego - La Jolla, CA
 
 ---

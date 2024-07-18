@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="mica-li.jpg">
 
-My name is Mica Li and I am a fourth year undergraduate at UCSD studying pure math. In my free time I enjoy weightlifting, knitting, reading, and watching TV shows/movies. My current favorite movie is *Dune: Part Two*, my current favorite book is *Martyr!* by Kaveh Akbar. 
+I am a fourth year undergraduate at UCSD studying pure math. In my free time I enjoy weightlifting, knitting, reading, and watching TV shows/movies. My current favorite movie is *Dune: Part Two*, my current favorite book is *Martyr!* by Kaveh Akbar. 
 
 ## Research Interests
 I am broadly interested in low-dimensional topology, Lie theory, and classical geometry. 
