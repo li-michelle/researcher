@@ -18,7 +18,6 @@ I am broadly interested in low-dimensional topology, Lie theory, and classical g
 
 ## Presentations
 Year | Location | Title
------|-------|--------
 2024 | UCSD  | An Introduction to Riemannian Manifolds
 2023 | UCSD Summer Research Conference| Harmonic Functions in Lie Sphere Geometry
 2023 | UCSD | Geometry Processing with Closest Point Exterior Calculus
