@@ -1,5 +1,5 @@
 title: Mica Li
-baseurl: "/researcher"
+baseurl: "https://li-michelle.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -15,7 +15,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "https://li.michelle.github.io"
  - name: "Resume"
    link: "CV.pdf"
  - name: "Contact"
