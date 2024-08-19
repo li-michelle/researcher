@@ -14,9 +14,5 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "https://li.michelle.github.io"
  - name: "Resume"
    link: "CV.pdf"
- - name: "Contact"
-   link: "contact"

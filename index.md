@@ -6,7 +6,9 @@ layout: default
 
 <img class="profile-picture" src="mica-li.jpg">
 
-I am a fourth year undergraduate at UCSD studying pure math. In my free time I enjoy weightlifting, knitting, reading, and watching TV shows/movies. My current favorite movie is *Dune: Part Two*, my current favorite book is *Martyr!* by Kaveh Akbar. 
+I am a fourth year undergraduate at UCSD studying pure math. In my free time I enjoy weightlifting, knitting, reading, watching movies, and going to art museums. My favorite movie is *Fury* dir. David Ayer, my favorite book is *Martyr!* by Kaveh Akbar, and my favorite painter is Caravaggio. 
+
+You can contact me at myl010 *at* ucsd *dot* edu.
 
 ## Research Interests
 I am broadly interested in low-dimensional topology, Lie theory, and classical geometry. 
