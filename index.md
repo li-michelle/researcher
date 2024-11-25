@@ -10,6 +10,8 @@ I am a fourth year undergraduate at UCSD studying pure math. In my free time I e
 
 You can contact me at myl010 *at* ucsd *dot* edu.
 
+$$e^{2\pi i} = 1$$
+
 ## Research Interests
 I am broadly interested in low-dimensional topology, Lie theory, and classical geometry. 
 
